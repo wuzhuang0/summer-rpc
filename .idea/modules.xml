@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/summer-demo/api/api.iml" filepath="$PROJECT_DIR$/summer-demo/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/summer-demo/client/client.iml" filepath="$PROJECT_DIR$/summer-demo/client/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/summer-demo/server/server.iml" filepath="$PROJECT_DIR$/summer-demo/server/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/summer-cluster/summer-cluster.iml" filepath="$PROJECT_DIR$/summer-cluster/summer-cluster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/summer-common/summer-common.iml" filepath="$PROJECT_DIR$/summer-common/summer-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/summer-config/summer-config.iml" filepath="$PROJECT_DIR$/summer-config/summer-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/summer-demo/summer-demo.iml" filepath="$PROJECT_DIR$/summer-demo/summer-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/summer-protocol/summer-protocol.iml" filepath="$PROJECT_DIR$/summer-protocol/summer-protocol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/summer-proxy/summer-proxy.iml" filepath="$PROJECT_DIR$/summer-proxy/summer-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/summer-register/summer-register.iml" filepath="$PROJECT_DIR$/summer-register/summer-register.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/summer-rpc.iml" filepath="$PROJECT_DIR$/.idea/summer-rpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/summer-spring/summer-spring.iml" filepath="$PROJECT_DIR$/summer-spring/summer-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/summer-test/summer-test.iml" filepath="$PROJECT_DIR$/summer-test/summer-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/summer-transport/summer-transport.iml" filepath="$PROJECT_DIR$/summer-transport/summer-transport.iml" />
     </modules>
   </component>
 </project>

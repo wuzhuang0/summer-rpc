@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="server" />
+        <module name="summer-proxy" />
+        <module name="summer-common" />
+        <module name="summer-cluster" />
+        <module name="summer-spring" />
+        <module name="client" />
+        <module name="summer-protocol" />
+        <module name="summer-transport" />
+        <module name="api" />
+        <module name="summer-register" />
+        <module name="summer-test" />
+        <module name="summer-config" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api" target="1.7" />
+      <module name="client" target="1.7" />
+      <module name="server" target="1.7" />
+      <module name="summer-cluster" target="1.7" />
+      <module name="summer-common" target="1.7" />
+      <module name="summer-config" target="1.7" />
+      <module name="summer-demo" target="1.7" />
+      <module name="summer-protocol" target="8" />
+      <module name="summer-proxy" target="1.7" />
+      <module name="summer-register" target="1.7" />
+      <module name="summer-rpc" target="1.7" />
+      <module name="summer-spring" target="1.7" />
+      <module name="summer-test" target="1.7" />
+      <module name="summer-transport" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

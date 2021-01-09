@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/summer-cluster/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/summer-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/summer-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/summer-demo/api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/summer-demo/client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/summer-demo/server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/summer-protocol/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/summer-proxy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/summer-register/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/summer-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/summer-transport/src/main/java" charset="UTF-8" />
+  </component>
+</project>
